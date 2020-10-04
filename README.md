@@ -3,7 +3,7 @@
 ## Step 1. Cloning this Repo
 
 ```
-git clone https://github.com/contentacms/contenta_docker.git --config core.autocrlf=input
+git clone https://github.com/bruno-bert/contenta-cms-docker.git --config core.autocrlf=input
 ```
 
 ## Step 2. Build the Containers
